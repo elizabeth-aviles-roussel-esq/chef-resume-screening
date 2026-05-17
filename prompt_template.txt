@@ -1,0 +1,74 @@
+KITCHEN HIRE — RESUME ANALYSIS PROMPT TEMPLATE
+================================================
+AI-Native Hiring Workflow | Version 2.0
+================================================
+
+INSTRUCTIONS:
+Replace the bracketed fields below with your specific details,
+then paste a resume at the bottom where indicated.
+
+------------------------------------------------
+PROMPT (copy everything below this line)
+------------------------------------------------
+
+I am hiring a [ROLE: Lead Line Cook / Sous Chef / Chef de Cuisine] for a
+high-volume upscale casual New American and French restaurant in NYC
+doing [COVER COUNT: e.g. 200] covers per night.
+
+The concept is upscale casual — elevated bistro fare, refined but
+approachable, not fine dining tasting menus. Benchmark restaurants for
+this style include Le Rock, Monkey Bar, Oceana, Gallagher's, Little Park,
+and the Happy Cooking group (Joseph Leonard, Perla, Bar Sardine).
+
+Please analyze the following resume and rate the candidate's fit on a
+scale of 1-10, then provide a brief assessment covering:
+
+1. OVERALL FIT SCORE (1-10)
+
+2. RELEVANT EXPERIENCE
+   List any upscale, chef-driven, or high-volume NYC restaurants and
+   explain their significance. Flag specifically any experience at French
+   brasseries, American bistros, or high-volume neighborhood restaurants.
+
+3. RED FLAGS
+   Note any gaps, overlapping dates, very short tenures (under 6 months
+   without explanation), or low-caliber experience that raises concern.
+
+4. CUISINE ALIGNMENT
+   How well does their background match upscale casual New American and
+   French cooking specifically? Fine dining tasting menu experience is
+   less relevant than brasserie or bistro experience for this role.
+
+5. VOLUME EXPERIENCE
+   Specific evidence of kitchens doing comparable or higher cover counts.
+   Note: 200 covers nightly is serious volume requiring speed,
+   consistency, and stamina. Hotel restaurants, private clubs, and tasting
+   menu restaurants are generally lower volume and less directly relevant.
+
+6. LEADERSHIP LEVEL
+   Are they suited for line cook, lead line cook, sous chef, or chef de
+   cuisine based on their history and trajectory?
+
+7. ONE KEY INTERVIEW QUESTION
+   The single most important thing to clarify based on gaps, transitions,
+   or uncertainties in this resume.
+
+[PASTE RESUME HERE]
+
+------------------------------------------------
+SCORING GUIDE
+------------------------------------------------
+8-10  → Interview immediately
+6-7   → Worth a conversation
+4-5   → Consider for line cook only
+1-3   → Pass
+
+------------------------------------------------
+AFTER REVIEWING MULTIPLE CANDIDATES
+------------------------------------------------
+To rank all candidates reviewed in this session, ask:
+
+"Please rank all the candidates we've reviewed today and give me a
+final recommendation for who to interview first, based on the criteria
+for a high-volume upscale casual New American and French restaurant
+doing 200 covers per night."
